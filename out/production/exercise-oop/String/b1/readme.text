@@ -1,0 +1,3 @@
+Tìm và in ra các ký tự xuất hiện nhiều hơn một lần trong String cho trước không phân biệt chữ hoa
+hay chữ thường. Nếu các ký tự trong chuỗi đều là duy nhất thì xuất ra “NO”.
+Ví dụ chuỗi “Java” thì có ký tự ‘a’ hoặc String “JaVA” cũng có kết quả tương tự.
