@@ -50,4 +50,10 @@ public class School {
         return count;
     }
 
+    @Override
+    public String toString() {
+        return "School{" +
+                "students=" + students +
+                '}';
+    }
 }
